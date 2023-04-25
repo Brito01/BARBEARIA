@@ -52,10 +52,9 @@ header {
     margin: 0 auto;
 
 }
-nav {
-    position: absolute;
-    top: 110px;
-    right: 0;
+nav a:hover {
+    color: #C78C19;
+    text-decoration: underline;
 }
 
 nav li {
